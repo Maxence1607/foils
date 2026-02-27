@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données lourdes
+data/images/
+data/simulations/
+
+app_v2.py
+app_v3.py
+app.py
+fapp.py
+fapp_v2.py
+fapp_v3.py
+fapp_v4.py
+
+# OS
+.DS_Store
