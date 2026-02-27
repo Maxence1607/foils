@@ -1,0 +1,1802 @@
+{
+  "Script1.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script10.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script100.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script101.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script102.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script103.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script104.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script105.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script106.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script107.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script108.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script109.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script11.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script110.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script111.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script112.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script113.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script114.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script115.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script116.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script117.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script118.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script119.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script12.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script120.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script121.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script122.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script123.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script124.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script125.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script126.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script127.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script128.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script129.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script13.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script130.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script131.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script132.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script133.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script134.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script135.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script136.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script137.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script138.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script139.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script14.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script140.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script141.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script142.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script143.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script144.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script145.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script146.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script147.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script148.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script149.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script15.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script150.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script151.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script152.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script153.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script154.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script155.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script156.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script157.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script158.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script159.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script16.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script160.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script161.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script162.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script163.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script164.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script165.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script166.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script167.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script168.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script169.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script17.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script170.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script171.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script172.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script173.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script174.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script175.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script176.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script177.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script178.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script179.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script18.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script180.js": {
+    "Configuration": {
+      "Foil": "04a"
+    }
+  },
+  "Script181.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script182.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script183.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script184.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script185.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script186.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script187.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script188.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script189.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script19.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script190.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script191.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script192.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script193.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script194.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script195.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script196.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script197.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script198.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script199.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script2.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script20.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script200.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script201.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script202.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script203.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script204.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script205.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script206.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script207.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script208.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script209.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script21.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script210.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script211.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script212.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script213.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script214.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script215.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script216.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script217.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script218.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script219.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script22.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script220.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script221.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script222.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script223.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script224.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script225.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script226.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script227.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script228.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script229.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script23.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script230.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script231.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script232.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script233.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script234.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script235.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script236.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script237.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script238.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script239.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script24.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script240.js": {
+    "Configuration": {
+      "Foil": "05"
+    }
+  },
+  "Script241.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script242.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script243.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script244.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script245.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script246.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script247.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script248.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script249.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script25.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script250.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script251.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script252.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script253.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script254.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script255.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script256.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script257.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script258.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script259.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script26.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script260.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script261.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script262.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script263.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script264.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script265.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script266.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script267.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script268.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script269.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script27.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script270.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script271.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script272.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script273.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script274.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script275.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script276.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script277.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script278.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script279.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script28.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script280.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script281.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script282.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script283.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script284.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script285.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script286.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script287.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script288.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script289.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script29.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script290.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script291.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script292.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script293.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script294.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script295.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script296.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script297.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script298.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script299.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script3.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script30.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script300.js": {
+    "Configuration": {
+      "Foil": "06b"
+    }
+  },
+  "Script301.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script302.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script303.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script304.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script305.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script306.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script307.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script308.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script309.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script31.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script310.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script311.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script312.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script313.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script314.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script315.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script316.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script317.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script318.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script319.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script32.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script320.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script321.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script322.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script323.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script324.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script325.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script326.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script327.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script328.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script329.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script33.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script330.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script331.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script332.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script333.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script334.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script335.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script336.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script337.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script338.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script339.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script34.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script340.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script341.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script342.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script343.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script344.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script345.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script346.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script347.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script348.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script349.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script35.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script350.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script351.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script352.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script353.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script354.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script355.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script356.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script357.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script358.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script359.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script36.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script360.js": {
+    "Configuration": {
+      "Foil": "07"
+    }
+  },
+  "Script37.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script38.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script39.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script4.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script40.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script41.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script42.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script43.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script44.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script45.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script46.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script47.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script48.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script49.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script5.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script50.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script51.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script52.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script53.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script54.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script55.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script56.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script57.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script58.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script59.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script6.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script60.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script61.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script62.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script63.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script64.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script65.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script66.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script67.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script68.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script69.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script7.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script70.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script71.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script72.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script73.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script74.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script75.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script76.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script77.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script78.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script79.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script8.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script80.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script81.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script82.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script83.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script84.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script85.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script86.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script87.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script88.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script89.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script9.js": {
+    "Configuration": {
+      "Foil": "02"
+    }
+  },
+  "Script90.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script91.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script92.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script93.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script94.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script95.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script96.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script97.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script98.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  },
+  "Script99.js": {
+    "Configuration": {
+      "Foil": "03"
+    }
+  }
+}
